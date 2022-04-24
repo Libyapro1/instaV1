@@ -108,7 +108,7 @@ til ="•"
 
 ok, cp, id, user, pwx, loop = [], [], [], [], [], 0
 
-sys.stdout.write('\x1b[1;35m\x1b]2; {♡} Alzwage {♡} \x07')
+sys.stdout.write('\x1b[1;35m\x1b]2; {♡} insta {♡} \x07')
 
 # JALAN
 def jalan(keliling):
@@ -136,9 +136,9 @@ except KeyError:
 	IP = " "
 	CN = " "
 
-author = 'Ahmed Alzwage '
-fb_me = 'Ahmed Husen Al dukali '
-Wa_me = '0921762445'
+author = 'LibyaPro '
+fb_me = 'Kingdom '
+Wa_me = 'LY'
 
 def banner():
 	os.system('clear')
@@ -164,7 +164,7 @@ def Masuk():
 		banner()
 		print ('\n%s%s%s [01] %sLogin instagram (crack akun instagram) '%(U,til,K,O))
 		#print ('%s%s%s [02] %sLogin cookies'%(U,til,K,O))		
-		print ('%s%s%s [00] %sKeluar '%(U,til,M,O))
+   #     print ('%s%s%s [00] %sKeluar '%(U,til,M,O))
 		while True:
 			rom = input ("\n%s# %sPilih %s> %s"%(P,O,M,K))
 			if rom in(""):
